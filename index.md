@@ -5,40 +5,14 @@
 
 I am from a suburb just outside of Rochester, NY. I graduated from Eastridge High School. Throughout High School I was very involved in different music programs as a percussionist in my school's wind ensemble, marching band, and indoor percussion ensemble. I love to play video games and hang out with my friends.
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mccormick.com%2Frecipes%2Fmain-dishes%2Ffiesta-tacos&psig=AOvVaw0ffUM4zca15t7FQqtK_-JN&ust=1601490336653000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID739H-juwCFQAAAAAdAAAAABAD)
+My Favorite Food:
 
-You can use the [editor on GitHub](https://github.com/jqm4954/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![TacosGitHubIOAssignment](https://user-images.githubusercontent.com/69987230/94605390-0db84800-0267-11eb-96a1-6c1409ce302a.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[RIT SE Website](http://www.se.rit.edu/~swen-101/00/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jqm4954/.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Things I Would Like to Learn
+- Increased ability to work effectively in groups
+- Better communication skills
+- I would also like to build some meaningful relationships
