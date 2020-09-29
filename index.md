@@ -3,7 +3,10 @@
 
 ### About Me
 
-I am from a suburb
+I am from a suburb just outside of Rochester, NY. I graduated from Eastridge High School. Throughout High School I was very involved in different music programs as a percussionist in my school's wind ensemble, marching band, and indoor percussion ensemble. I love to play video games and hang out with my friends.
+
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mccormick.com%2Frecipes%2Fmain-dishes%2Ffiesta-tacos&psig=AOvVaw0ffUM4zca15t7FQqtK_-JN&ust=1601490336653000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID739H-juwCFQAAAAAdAAAAABAD)
+
 You can use the [editor on GitHub](https://github.com/jqm4954/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
